@@ -4,6 +4,6 @@ setup(
     name='python-link-tests',
     version='0.0.0',
     url='http://github.com/sgtest/python-link-tests',
-    packages=['pkg0'],
+    py_modules=['m0'],
     install_requires=[],
 )
