@@ -1,7 +1,7 @@
 import os
-import pkg0
+import m0
 
 TESTS_ROOT = os.path.abspath(os.path.dirname(__file__))
 
 def bar():
-	pkg0.foo()
+	m0.foo()
